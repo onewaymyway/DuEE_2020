@@ -16,8 +16,7 @@
 
 建议使用AIStudio环境跑这个项目，最好是直接Fork本人分享的项目，
 
-项目地址:
-....
+项目地址:https://aistudio.baidu.com/aistudio/projectdetail/545914
 
 
 
